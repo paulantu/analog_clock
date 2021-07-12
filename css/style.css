@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: rgba(148, 5, 5, 0.835);
+}
+.canvas{
+    margin-top: 118px;
+    margin-left: 583px;
+}
